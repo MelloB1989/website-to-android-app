@@ -13,7 +13,7 @@ import com.onesignal.OneSignal;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String ONESIGNAL_APP_ID = "6c105719-a866-42eb-9ad6-88c1f3c43592";
+    private static final String ONESIGNAL_APP_ID = "YOUR_ONESIGNAL_APP_ID";
     private ProgressBar progressBar;
 
     @Override
